@@ -13,6 +13,8 @@ class TempViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("dsdsd")
+        print("dsdsd")
+
         // Do any additional setup after loading the view.
     }
 
